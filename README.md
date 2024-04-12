@@ -14,22 +14,15 @@ An AI-powered research assistant.
 
 ## 🚀 Quickstart
 
-### 1. Fork and Clone repo
 
-Fork the repo to your Github account, then run the following command to clone the repo:
-
-```
-git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/morphic.git
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```
 cd morphic
 bun i
 ```
 
-### 3. Fill out secrets
+### 2. Fill out secrets
 
 ```
 cp .env.local.example .env.local
@@ -49,7 +42,7 @@ OPENAI_API_KEY=[YOUR_OPENAI_API_KEY]
 TAVILY_API_KEY=[YOUR_TAVILY_API_KEY]
 ```
 
-### 4. Run app locally
+### 3. Run app locally
 
 ```
 bun dev
