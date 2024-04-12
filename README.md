@@ -1,14 +1,6 @@
-# Morphic
+# Salesfinity AI
 
-An AI-powered answer engine with a generative UI.
-
-![capture](/public/capture-240404_blk.png)
-
-## 🔍 Overview
-
-- 🧱 [Stack](#-stack)
-- 🚀 [Quickstart](#-quickstart)
-- 🌐 [Deploy](#-deploy)
+An AI-powered research assistant.
 
 ## 🧱 Stack
 
@@ -65,8 +57,3 @@ bun dev
 
 You can now visit http://localhost:3000.
 
-## 🌐 Deploy
-
-Host your own live version of Morphic with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmiurla%2Fmorphic&env=OPENAI_API_KEY,TAVILY_API_KEY)
